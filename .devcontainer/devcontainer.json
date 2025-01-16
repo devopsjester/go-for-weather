@@ -1,0 +1,12 @@
+{
+  "name": "Go for Weather",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "github.copilot",
+    "github.copilot-chat"
+  ],
+  "remoteUser": "vscode"
+}
